@@ -1,0 +1,6 @@
+{
+  "name": "Water Billing Calculator",
+  "description": "An application to calculate, record, and manage water billing consumption, compute payable amounts, and track customer profiles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
